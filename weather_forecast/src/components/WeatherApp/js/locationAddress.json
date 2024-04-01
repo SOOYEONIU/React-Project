@@ -1,0 +1,2252 @@
+[
+    {
+        "AdministrativeDistrictCode": 1111000000,
+        "step1": "서울특별시",
+        "step2": "종로구",
+        "totalAddress": "서울특별시 종로구",
+        "X": 60,
+        "Y": 127,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1114000000,
+        "step1": "서울특별시",
+        "step2": "중구",
+        "totalAddress": "서울특별시 중구",
+        "X": 60,
+        "Y": 127,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1117000000,
+        "step1": "서울특별시",
+        "step2": "용산구",
+        "totalAddress": "서울특별시 용산구",
+        "X": 60,
+        "Y": 126,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1120000000,
+        "step1": "서울특별시",
+        "step2": "성동구",
+        "totalAddress": "서울특별시 성동구",
+        "X": 61,
+        "Y": 127,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1121500000,
+        "step1": "서울특별시",
+        "step2": "광진구",
+        "totalAddress": "서울특별시 광진구",
+        "X": 62,
+        "Y": 126,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1123000000,
+        "step1": "서울특별시",
+        "step2": "동대문구",
+        "totalAddress": "서울특별시 동대문구",
+        "X": 61,
+        "Y": 127,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1126000000,
+        "step1": "서울특별시",
+        "step2": "중랑구",
+        "totalAddress": "서울특별시 중랑구",
+        "X": 62,
+        "Y": 128,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1129000000,
+        "step1": "서울특별시",
+        "step2": "성북구",
+        "totalAddress": "서울특별시 성북구",
+        "X": 61,
+        "Y": 127,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1130500000,
+        "step1": "서울특별시",
+        "step2": "강북구",
+        "totalAddress": "서울특별시 강북구",
+        "X": 61,
+        "Y": 128,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1132000000,
+        "step1": "서울특별시",
+        "step2": "도봉구",
+        "totalAddress": "서울특별시 도봉구",
+        "X": 61,
+        "Y": 129,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1135000000,
+        "step1": "서울특별시",
+        "step2": "노원구",
+        "totalAddress": "서울특별시 노원구",
+        "X": 61,
+        "Y": 129,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1138000000,
+        "step1": "서울특별시",
+        "step2": "은평구",
+        "totalAddress": "서울특별시 은평구",
+        "X": 59,
+        "Y": 127,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1141000000,
+        "step1": "서울특별시",
+        "step2": "서대문구",
+        "totalAddress": "서울특별시 서대문구",
+        "X": 59,
+        "Y": 127,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1144000000,
+        "step1": "서울특별시",
+        "step2": "마포구",
+        "totalAddress": "서울특별시 마포구",
+        "X": 59,
+        "Y": 127,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1147000000,
+        "step1": "서울특별시",
+        "step2": "양천구",
+        "totalAddress": "서울특별시 양천구",
+        "X": 58,
+        "Y": 126,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1150000000,
+        "step1": "서울특별시",
+        "step2": "강서구",
+        "totalAddress": "서울특별시 강서구",
+        "X": 58,
+        "Y": 126,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1153000000,
+        "step1": "서울특별시",
+        "step2": "구로구",
+        "totalAddress": "서울특별시 구로구",
+        "X": 58,
+        "Y": 125,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1154500000,
+        "step1": "서울특별시",
+        "step2": "금천구",
+        "totalAddress": "서울특별시 금천구",
+        "X": 59,
+        "Y": 124,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1156000000,
+        "step1": "서울특별시",
+        "step2": "영등포구",
+        "totalAddress": "서울특별시 영등포구",
+        "X": 58,
+        "Y": 126,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1159000000,
+        "step1": "서울특별시",
+        "step2": "동작구",
+        "totalAddress": "서울특별시 동작구",
+        "X": 59,
+        "Y": 125,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1162000000,
+        "step1": "서울특별시",
+        "step2": "관악구",
+        "totalAddress": "서울특별시 관악구",
+        "X": 59,
+        "Y": 125,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1165000000,
+        "step1": "서울특별시",
+        "step2": "서초구",
+        "totalAddress": "서울특별시 서초구",
+        "X": 61,
+        "Y": 125,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1168000000,
+        "step1": "서울특별시",
+        "step2": "강남구",
+        "totalAddress": "서울특별시 강남구",
+        "X": 61,
+        "Y": 126,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1171000000,
+        "step1": "서울특별시",
+        "step2": "송파구",
+        "totalAddress": "서울특별시 송파구",
+        "X": 62,
+        "Y": 126,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 1174000000,
+        "step1": "서울특별시",
+        "step2": "강동구",
+        "totalAddress": "서울특별시 강동구",
+        "X": 62,
+        "Y": 126,
+        "mid-termForecastCode": "11B10101"
+    },
+    {
+        "AdministrativeDistrictCode": 2611000000,
+        "step1": "부산광역시",
+        "step2": "중구",
+        "totalAddress": "부산광역시 중구",
+        "X": 97,
+        "Y": 74,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2614000000,
+        "step1": "부산광역시",
+        "step2": "서구",
+        "totalAddress": "부산광역시 서구",
+        "X": 97,
+        "Y": 74,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2617000000,
+        "step1": "부산광역시",
+        "step2": "동구",
+        "totalAddress": "부산광역시 동구",
+        "X": 98,
+        "Y": 75,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2620000000,
+        "step1": "부산광역시",
+        "step2": "영도구",
+        "totalAddress": "부산광역시 영도구",
+        "X": 98,
+        "Y": 74,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2623000000,
+        "step1": "부산광역시",
+        "step2": "부산진구",
+        "totalAddress": "부산광역시 부산진구",
+        "X": 97,
+        "Y": 75,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2626000000,
+        "step1": "부산광역시",
+        "step2": "동래구",
+        "totalAddress": "부산광역시 동래구",
+        "X": 98,
+        "Y": 76,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2629000000,
+        "step1": "부산광역시",
+        "step2": "남구",
+        "totalAddress": "부산광역시 남구",
+        "X": 98,
+        "Y": 75,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2632000000,
+        "step1": "부산광역시",
+        "step2": "북구",
+        "totalAddress": "부산광역시 북구",
+        "X": 96,
+        "Y": 76,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2635000000,
+        "step1": "부산광역시",
+        "step2": "해운대구",
+        "totalAddress": "부산광역시 해운대구",
+        "X": 99,
+        "Y": 75,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2638000000,
+        "step1": "부산광역시",
+        "step2": "사하구",
+        "totalAddress": "부산광역시 사하구",
+        "X": 96,
+        "Y": 74,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2641000000,
+        "step1": "부산광역시",
+        "step2": "금정구",
+        "totalAddress": "부산광역시 금정구",
+        "X": 98,
+        "Y": 77,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2644000000,
+        "step1": "부산광역시",
+        "step2": "강서구",
+        "totalAddress": "부산광역시 강서구",
+        "X": 96,
+        "Y": 76,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2647000000,
+        "step1": "부산광역시",
+        "step2": "연제구",
+        "totalAddress": "부산광역시 연제구",
+        "X": 98,
+        "Y": 76,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2650000000,
+        "step1": "부산광역시",
+        "step2": "수영구",
+        "totalAddress": "부산광역시 수영구",
+        "X": 99,
+        "Y": 75,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2653000000,
+        "step1": "부산광역시",
+        "step2": "사상구",
+        "totalAddress": "부산광역시 사상구",
+        "X": 96,
+        "Y": 75,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2671000000,
+        "step1": "부산광역시",
+        "step2": "기장군",
+        "totalAddress": "부산광역시 기장군",
+        "X": 100,
+        "Y": 77,
+        "mid-termForecastCode": "11H20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2711000000,
+        "step1": "대구광역시",
+        "step2": "중구",
+        "totalAddress": "대구광역시 중구",
+        "X": 89,
+        "Y": 90,
+        "mid-termForecastCode": "11H10701"
+    },
+    {
+        "AdministrativeDistrictCode": 2714000000,
+        "step1": "대구광역시",
+        "step2": "동구",
+        "totalAddress": "대구광역시 동구",
+        "X": 90,
+        "Y": 91,
+        "mid-termForecastCode": "11H10701"
+    },
+    {
+        "AdministrativeDistrictCode": 2717000000,
+        "step1": "대구광역시",
+        "step2": "서구",
+        "totalAddress": "대구광역시 서구",
+        "X": 88,
+        "Y": 90,
+        "mid-termForecastCode": "11H10701"
+    },
+    {
+        "AdministrativeDistrictCode": 2720000000,
+        "step1": "대구광역시",
+        "step2": "남구",
+        "totalAddress": "대구광역시 남구",
+        "X": 89,
+        "Y": 90,
+        "mid-termForecastCode": "11H10701"
+    },
+    {
+        "AdministrativeDistrictCode": 2723000000,
+        "step1": "대구광역시",
+        "step2": "북구",
+        "totalAddress": "대구광역시 북구",
+        "X": 89,
+        "Y": 91,
+        "mid-termForecastCode": "11H10701"
+    },
+    {
+        "AdministrativeDistrictCode": 2726000000,
+        "step1": "대구광역시",
+        "step2": "수성구",
+        "totalAddress": "대구광역시 수성구",
+        "X": 89,
+        "Y": 90,
+        "mid-termForecastCode": "11H10701"
+    },
+    {
+        "AdministrativeDistrictCode": 2729000000,
+        "step1": "대구광역시",
+        "step2": "달서구",
+        "totalAddress": "대구광역시 달서구",
+        "X": 88,
+        "Y": 90,
+        "mid-termForecastCode": "11H10701"
+    },
+    {
+        "AdministrativeDistrictCode": 2771000000,
+        "step1": "대구광역시",
+        "step2": "달성군",
+        "totalAddress": "대구광역시 달성군",
+        "X": 86,
+        "Y": 88,
+        "mid-termForecastCode": "11H10701"
+    },
+    {
+        "AdministrativeDistrictCode": 2811000000,
+        "step1": "인천광역시",
+        "step2": "중구",
+        "totalAddress": "인천광역시 중구",
+        "X": 54,
+        "Y": 125,
+        "mid-termForecastCode": "11B20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2814000000,
+        "step1": "인천광역시",
+        "step2": "동구",
+        "totalAddress": "인천광역시 동구",
+        "X": 54,
+        "Y": 125,
+        "mid-termForecastCode": "11B20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2817700000,
+        "step1": "인천광역시",
+        "step2": "미추홀구",
+        "totalAddress": "인천광역시 미추홀구",
+        "X": 54,
+        "Y": 124,
+        "mid-termForecastCode": "11B20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2818500000,
+        "step1": "인천광역시",
+        "step2": "연수구",
+        "totalAddress": "인천광역시 연수구",
+        "X": 55,
+        "Y": 123,
+        "mid-termForecastCode": "11B20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2820000000,
+        "step1": "인천광역시",
+        "step2": "남동구",
+        "totalAddress": "인천광역시 남동구",
+        "X": 56,
+        "Y": 124,
+        "mid-termForecastCode": "11B20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2823700000,
+        "step1": "인천광역시",
+        "step2": "부평구",
+        "totalAddress": "인천광역시 부평구",
+        "X": 55,
+        "Y": 125,
+        "mid-termForecastCode": "11B20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2824500000,
+        "step1": "인천광역시",
+        "step2": "계양구",
+        "totalAddress": "인천광역시 계양구",
+        "X": 56,
+        "Y": 126,
+        "mid-termForecastCode": "11B20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2826000000,
+        "step1": "인천광역시",
+        "step2": "서구",
+        "totalAddress": "인천광역시 서구",
+        "X": 55,
+        "Y": 126,
+        "mid-termForecastCode": "11B20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2871000000,
+        "step1": "인천광역시",
+        "step2": "강화군",
+        "totalAddress": "인천광역시 강화군",
+        "X": 51,
+        "Y": 130,
+        "mid-termForecastCode": "11B20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2872000000,
+        "step1": "인천광역시",
+        "step2": "옹진군",
+        "totalAddress": "인천광역시 옹진군",
+        "X": 54,
+        "Y": 124,
+        "mid-termForecastCode": "11B20201"
+    },
+    {
+        "AdministrativeDistrictCode": 2911000000,
+        "step1": "광주광역시",
+        "step2": "동구",
+        "totalAddress": "광주광역시 동구",
+        "X": 60,
+        "Y": 74,
+        "mid-termForecastCode": "11B20702"
+    },
+    {
+        "AdministrativeDistrictCode": 2914000000,
+        "step1": "광주광역시",
+        "step2": "서구",
+        "totalAddress": "광주광역시 서구",
+        "X": 59,
+        "Y": 74,
+        "mid-termForecastCode": "11B20702"
+    },
+    {
+        "AdministrativeDistrictCode": 2915500000,
+        "step1": "광주광역시",
+        "step2": "남구",
+        "totalAddress": "광주광역시 남구",
+        "X": 59,
+        "Y": 73,
+        "mid-termForecastCode": "11B20702"
+    },
+    {
+        "AdministrativeDistrictCode": 2917000000,
+        "step1": "광주광역시",
+        "step2": "북구",
+        "totalAddress": "광주광역시 북구",
+        "X": 59,
+        "Y": 75,
+        "mid-termForecastCode": "11B20702"
+    },
+    {
+        "AdministrativeDistrictCode": 2920000000,
+        "step1": "광주광역시",
+        "step2": "광산구",
+        "totalAddress": "광주광역시 광산구",
+        "X": 57,
+        "Y": 74,
+        "mid-termForecastCode": "11B20702"
+    },
+    {
+        "AdministrativeDistrictCode": 3011000000,
+        "step1": "대전광역시",
+        "step2": "동구",
+        "totalAddress": "대전광역시 동구",
+        "X": 68,
+        "Y": 100,
+        "mid-termForecastCode": "11C20401"
+    },
+    {
+        "AdministrativeDistrictCode": 3014000000,
+        "step1": "대전광역시",
+        "step2": "중구",
+        "totalAddress": "대전광역시 중구",
+        "X": 68,
+        "Y": 100,
+        "mid-termForecastCode": "11C20401"
+    },
+    {
+        "AdministrativeDistrictCode": 3017000000,
+        "step1": "대전광역시",
+        "step2": "서구",
+        "totalAddress": "대전광역시 서구",
+        "X": 67,
+        "Y": 100,
+        "mid-termForecastCode": "11C20401"
+    },
+    {
+        "AdministrativeDistrictCode": 3020000000,
+        "step1": "대전광역시",
+        "step2": "유성구",
+        "totalAddress": "대전광역시 유성구",
+        "X": 67,
+        "Y": 101,
+        "mid-termForecastCode": "11C20401"
+    },
+    {
+        "AdministrativeDistrictCode": 3023000000,
+        "step1": "대전광역시",
+        "step2": "대덕구",
+        "totalAddress": "대전광역시 대덕구",
+        "X": 68,
+        "Y": 100,
+        "mid-termForecastCode": "11C20401"
+    },
+    {
+        "AdministrativeDistrictCode": 3111000000,
+        "step1": "울산광역시",
+        "step2": "중구",
+        "totalAddress": "울산광역시 중구",
+        "X": 102,
+        "Y": 84,
+        "mid-termForecastCode": "11H20101"
+    },
+    {
+        "AdministrativeDistrictCode": 3114000000,
+        "step1": "울산광역시",
+        "step2": "남구",
+        "totalAddress": "울산광역시 남구",
+        "X": 102,
+        "Y": 84,
+        "mid-termForecastCode": "11H20101"
+    },
+    {
+        "AdministrativeDistrictCode": 3117000000,
+        "step1": "울산광역시",
+        "step2": "동구",
+        "totalAddress": "울산광역시 동구",
+        "X": 104,
+        "Y": 83,
+        "mid-termForecastCode": "11H20101"
+    },
+    {
+        "AdministrativeDistrictCode": 3120000000,
+        "step1": "울산광역시",
+        "step2": "북구",
+        "totalAddress": "울산광역시 북구",
+        "X": 103,
+        "Y": 85,
+        "mid-termForecastCode": "11H20101"
+    },
+    {
+        "AdministrativeDistrictCode": 3171000000,
+        "step1": "울산광역시",
+        "step2": "울주군",
+        "totalAddress": "울산광역시 울주군",
+        "X": 101,
+        "Y": 84,
+        "mid-termForecastCode": "11H20101"
+    },
+    {
+        "AdministrativeDistrictCode": 3611000000,
+        "step1": "세종특별자치시",
+        "step2": "세종특별자치시",
+        "totalAddress": "세종특별자치시",
+        "X": 66,
+        "Y": 103,
+        "mid-termForecastCode": "11C20404"
+    },
+    {
+        "AdministrativeDistrictCode": 4111100000,
+        "step1": "경기도",
+        "step2": "수원시 장안구",
+        "totalAddress": "경기도 수원시 장안구",
+        "X": 60,
+        "Y": 121,
+        "mid-termForecastCode": "11B20601"
+    },
+    {
+        "AdministrativeDistrictCode": 4111300000,
+        "step1": "경기도",
+        "step2": "수원시 권선구",
+        "totalAddress": "경기도 수원시 권선구",
+        "X": 60,
+        "Y": 120,
+        "mid-termForecastCode": "11B20601"
+    },
+    {
+        "AdministrativeDistrictCode": 4111500000,
+        "step1": "경기도",
+        "step2": "수원시 팔달구",
+        "totalAddress": "경기도 수원시 팔달구",
+        "X": 61,
+        "Y": 121,
+        "mid-termForecastCode": "11B20601"
+    },
+    {
+        "AdministrativeDistrictCode": 4111700000,
+        "step1": "경기도",
+        "step2": "수원시 영통구",
+        "totalAddress": "경기도 수원시 영통구",
+        "X": 61,
+        "Y": 120,
+        "mid-termForecastCode": "11B20601"
+    },
+    {
+        "AdministrativeDistrictCode": 4113100000,
+        "step1": "경기도",
+        "step2": "성남시 수정구",
+        "totalAddress": "경기도 성남시 수정구",
+        "X": 63,
+        "Y": 124,
+        "mid-termForecastCode": "11B20605"
+    },
+    {
+        "AdministrativeDistrictCode": 4113300000,
+        "step1": "경기도",
+        "step2": "성남시 중원구",
+        "totalAddress": "경기도 성남시 중원구",
+        "X": 63,
+        "Y": 124,
+        "mid-termForecastCode": "11B20605"
+    },
+    {
+        "AdministrativeDistrictCode": 4113500000,
+        "step1": "경기도",
+        "step2": "성남시 분당구",
+        "totalAddress": "경기도 성남시 분당구",
+        "X": 62,
+        "Y": 123,
+        "mid-termForecastCode": "11B20605"
+    },
+    {
+        "AdministrativeDistrictCode": 4115000000,
+        "step1": "경기도",
+        "step2": "의정부시",
+        "totalAddress": "경기도 의정부시",
+        "X": 61,
+        "Y": 130,
+        "mid-termForecastCode": "11B20301"
+    },
+    {
+        "AdministrativeDistrictCode": 4117100000,
+        "step1": "경기도",
+        "step2": "안양시 만안구",
+        "totalAddress": "경기도 안양시 만안구",
+        "X": 59,
+        "Y": 123,
+        "mid-termForecastCode": "11B20602"
+    },
+    {
+        "AdministrativeDistrictCode": 4117300000,
+        "step1": "경기도",
+        "step2": "안양시 동안구",
+        "totalAddress": "경기도 안양시 동안구",
+        "X": 59,
+        "Y": 123,
+        "mid-termForecastCode": "11B20602"
+    },
+    {
+        "AdministrativeDistrictCode": 4119000000,
+        "step1": "경기도",
+        "step2": "부천시",
+        "totalAddress": "경기도 부천시",
+        "X": 56,
+        "Y": 125,
+        "mid-termForecastCode": "11B20204"
+    },
+    {
+        "AdministrativeDistrictCode": 4121000000,
+        "step1": "경기도",
+        "step2": "광명시",
+        "totalAddress": "경기도 광명시",
+        "X": 58,
+        "Y": 125,
+        "mid-termForecastCode": "11B10103"
+    },
+    {
+        "AdministrativeDistrictCode": 4122000000,
+        "step1": "경기도",
+        "step2": "평택시",
+        "totalAddress": "경기도 평택시",
+        "X": 62,
+        "Y": 114,
+        "mid-termForecastCode": "11B20606"
+    },
+    {
+        "AdministrativeDistrictCode": 4125000000,
+        "step1": "경기도",
+        "step2": "동두천시",
+        "totalAddress": "경기도 동두천시",
+        "X": 61,
+        "Y": 134,
+        "mid-termForecastCode": "11B20401"
+    },
+    {
+        "AdministrativeDistrictCode": 4127100000,
+        "step1": "경기도",
+        "step2": "안산시 상록구",
+        "totalAddress": "경기도 안산시 상록구",
+        "X": 58,
+        "Y": 121,
+        "mid-termForecastCode": "11B20203"
+    },
+    {
+        "AdministrativeDistrictCode": 4127300000,
+        "step1": "경기도",
+        "step2": "안산시 단원구",
+        "totalAddress": "경기도 안산시 단원구",
+        "X": 57,
+        "Y": 121,
+        "mid-termForecastCode": "11B20203"
+    },
+    {
+        "AdministrativeDistrictCode": 4128100000,
+        "step1": "경기도",
+        "step2": "고양시 덕양구",
+        "totalAddress": "경기도 고양시 덕양구",
+        "X": 57,
+        "Y": 128,
+        "mid-termForecastCode": "11B20302"
+    },
+    {
+        "AdministrativeDistrictCode": 4128500000,
+        "step1": "경기도",
+        "step2": "고양시 일산동구",
+        "totalAddress": "경기도 고양시 일산동구",
+        "X": 56,
+        "Y": 129,
+        "mid-termForecastCode": "11B20302"
+    },
+    {
+        "AdministrativeDistrictCode": 4128700000,
+        "step1": "경기도",
+        "step2": "고양시 일산서구",
+        "totalAddress": "경기도 고양시 일산서구",
+        "X": 56,
+        "Y": 129,
+        "mid-termForecastCode": "11B20302"
+    },
+    {
+        "AdministrativeDistrictCode": 4129000000,
+        "step1": "경기도",
+        "step2": "과천시",
+        "totalAddress": "경기도 과천시",
+        "X": 60,
+        "Y": 124,
+        "mid-termForecastCode": "11B10102"
+    },
+    {
+        "AdministrativeDistrictCode": 4131000000,
+        "step1": "경기도",
+        "step2": "구리시",
+        "totalAddress": "경기도 구리시",
+        "X": 62,
+        "Y": 127,
+        "mid-termForecastCode": "11B20501"
+    },
+    {
+        "AdministrativeDistrictCode": 4136000000,
+        "step1": "경기도",
+        "step2": "남양주시",
+        "totalAddress": "경기도 남양주시",
+        "X": 64,
+        "Y": 128,
+        "mid-termForecastCode": "11B20502"
+    },
+    {
+        "AdministrativeDistrictCode": 4137000000,
+        "step1": "경기도",
+        "step2": "오산시",
+        "totalAddress": "경기도 오산시",
+        "X": 62,
+        "Y": 118,
+        "mid-termForecastCode": "11B20603"
+    },
+    {
+        "AdministrativeDistrictCode": 4139000000,
+        "step1": "경기도",
+        "step2": "시흥시",
+        "totalAddress": "경기도 시흥시",
+        "X": 57,
+        "Y": 123,
+        "mid-termForecastCode": "11B20202"
+    },
+    {
+        "AdministrativeDistrictCode": 4141000000,
+        "step1": "경기도",
+        "step2": "군포시",
+        "totalAddress": "경기도 군포시",
+        "X": 59,
+        "Y": 122,
+        "mid-termForecastCode": "11B20610"
+    },
+    {
+        "AdministrativeDistrictCode": 4143000000,
+        "step1": "경기도",
+        "step2": "의왕시",
+        "totalAddress": "경기도 의왕시",
+        "X": 60,
+        "Y": 122,
+        "mid-termForecastCode": "11B20609"
+    },
+    {
+        "AdministrativeDistrictCode": 4145000000,
+        "step1": "경기도",
+        "step2": "하남시",
+        "totalAddress": "경기도 하남시",
+        "X": 64,
+        "Y": 126,
+        "mid-termForecastCode": "11B20504"
+    },
+    {
+        "AdministrativeDistrictCode": 4146100000,
+        "step1": "경기도",
+        "step2": "용인시 처인구",
+        "totalAddress": "경기도 용인시 처인구",
+        "X": 64,
+        "Y": 119,
+        "mid-termForecastCode": "11B20612"
+    },
+    {
+        "AdministrativeDistrictCode": 4146300000,
+        "step1": "경기도",
+        "step2": "용인시 기흥구",
+        "totalAddress": "경기도 용인시 기흥구",
+        "X": 62,
+        "Y": 120,
+        "mid-termForecastCode": "11B20612"
+    },
+    {
+        "AdministrativeDistrictCode": 4146500000,
+        "step1": "경기도",
+        "step2": "용인시 수지구",
+        "totalAddress": "경기도 용인시 수지구",
+        "X": 62,
+        "Y": 121,
+        "mid-termForecastCode": "11B20612"
+    },
+    {
+        "AdministrativeDistrictCode": 4148000000,
+        "step1": "경기도",
+        "step2": "파주시",
+        "totalAddress": "경기도 파주시",
+        "X": 56,
+        "Y": 131,
+        "mid-termForecastCode": "11B20305"
+    },
+    {
+        "AdministrativeDistrictCode": 4150000000,
+        "step1": "경기도",
+        "step2": "이천시",
+        "totalAddress": "경기도 이천시",
+        "X": 68,
+        "Y": 121,
+        "mid-termForecastCode": "11B20701"
+    },
+    {
+        "AdministrativeDistrictCode": 4155000000,
+        "step1": "경기도",
+        "step2": "안성시",
+        "totalAddress": "경기도 안성시",
+        "X": 65,
+        "Y": 115,
+        "mid-termForecastCode": "11B20611"
+    },
+    {
+        "AdministrativeDistrictCode": 4157000000,
+        "step1": "경기도",
+        "step2": "김포시",
+        "totalAddress": "경기도 김포시",
+        "X": 55,
+        "Y": 128,
+        "mid-termForecastCode": "11B20102"
+    },
+    {
+        "AdministrativeDistrictCode": 4159000000,
+        "step1": "경기도",
+        "step2": "화성시",
+        "totalAddress": "경기도 화성시",
+        "X": 57,
+        "Y": 119,
+        "mid-termForecastCode": "11B20604"
+    },
+    {
+        "AdministrativeDistrictCode": 4161000000,
+        "step1": "경기도",
+        "step2": "광주시",
+        "totalAddress": "경기도 광주시",
+        "X": 65,
+        "Y": 123,
+        "mid-termForecastCode": "11B20702"
+    },
+    {
+        "AdministrativeDistrictCode": 4163000000,
+        "step1": "경기도",
+        "step2": "양주시",
+        "totalAddress": "경기도 양주시",
+        "X": 61,
+        "Y": 131,
+        "mid-termForecastCode": "11B20304"
+    },
+    {
+        "AdministrativeDistrictCode": 4165000000,
+        "step1": "경기도",
+        "step2": "포천시",
+        "totalAddress": "경기도 포천시",
+        "X": 64,
+        "Y": 134,
+        "mid-termForecastCode": "11B20403"
+    },
+    {
+        "AdministrativeDistrictCode": 4167000000,
+        "step1": "경기도",
+        "step2": "여주시",
+        "totalAddress": "경기도 여주시",
+        "X": 71,
+        "Y": 121,
+        "mid-termForecastCode": "11B20703"
+    },
+    {
+        "AdministrativeDistrictCode": 4180000000,
+        "step1": "경기도",
+        "step2": "연천군",
+        "totalAddress": "경기도 연천군",
+        "X": 61,
+        "Y": 138,
+        "mid-termForecastCode": "11B20402"
+    },
+    {
+        "AdministrativeDistrictCode": 4182000000,
+        "step1": "경기도",
+        "step2": "가평군",
+        "totalAddress": "경기도 가평군",
+        "X": 69,
+        "Y": 133,
+        "mid-termForecastCode": "11B20404"
+    },
+    {
+        "AdministrativeDistrictCode": 4183000000,
+        "step1": "경기도",
+        "step2": "양평군",
+        "totalAddress": "경기도 양평군",
+        "X": 69,
+        "Y": 125,
+        "mid-termForecastCode": "11B20503"
+    },
+    {
+        "AdministrativeDistrictCode": 4211000000,
+        "step1": "강원도",
+        "step2": "춘천시",
+        "totalAddress": "강원도 춘천시",
+        "X": 73,
+        "Y": 134,
+        "mid-termForecastCode": "11D10301"
+    },
+    {
+        "AdministrativeDistrictCode": 4213000000,
+        "step1": "강원도",
+        "step2": "원주시",
+        "totalAddress": "강원도 원주시",
+        "X": 76,
+        "Y": 122,
+        "mid-termForecastCode": "11D10401"
+    },
+    {
+        "AdministrativeDistrictCode": 4215000000,
+        "step1": "강원도",
+        "step2": "강릉시",
+        "totalAddress": "강원도 강릉시",
+        "X": 92,
+        "Y": 131,
+        "mid-termForecastCode": "11D20501"
+    },
+    {
+        "AdministrativeDistrictCode": 4217000000,
+        "step1": "강원도",
+        "step2": "동해시",
+        "totalAddress": "강원도 동해시",
+        "X": 97,
+        "Y": 127,
+        "mid-termForecastCode": "11D20601"
+    },
+    {
+        "AdministrativeDistrictCode": 4219000000,
+        "step1": "강원도",
+        "step2": "태백시",
+        "totalAddress": "강원도 태백시",
+        "X": 95,
+        "Y": 119,
+        "mid-termForecastCode": "11D20301"
+    },
+    {
+        "AdministrativeDistrictCode": 4221000000,
+        "step1": "강원도",
+        "step2": "속초시",
+        "totalAddress": "강원도 속초시",
+        "X": 87,
+        "Y": 141,
+        "mid-termForecastCode": "11D20401"
+    },
+    {
+        "AdministrativeDistrictCode": 4223000000,
+        "step1": "강원도",
+        "step2": "삼척시",
+        "totalAddress": "강원도 삼척시",
+        "X": 98,
+        "Y": 125,
+        "mid-termForecastCode": "11D20602"
+    },
+    {
+        "AdministrativeDistrictCode": 4272000000,
+        "step1": "강원도",
+        "step2": "홍천군",
+        "totalAddress": "강원도 홍천군",
+        "X": 75,
+        "Y": 130,
+        "mid-termForecastCode": "11D10302"
+    },
+    {
+        "AdministrativeDistrictCode": 4273000000,
+        "step1": "강원도",
+        "step2": "횡성군",
+        "totalAddress": "강원도 횡성군",
+        "X": 77,
+        "Y": 125,
+        "mid-termForecastCode": "11D10402"
+    },
+    {
+        "AdministrativeDistrictCode": 4275000000,
+        "step1": "강원도",
+        "step2": "영월군",
+        "totalAddress": "강원도 영월군",
+        "X": 86,
+        "Y": 119,
+        "mid-termForecastCode": "11D10501"
+    },
+    {
+        "AdministrativeDistrictCode": 4276000000,
+        "step1": "강원도",
+        "step2": "평창군",
+        "totalAddress": "강원도 평창군",
+        "X": 84,
+        "Y": 123,
+        "mid-termForecastCode": "11D10503"
+    },
+    {
+        "AdministrativeDistrictCode": 4277000000,
+        "step1": "강원도",
+        "step2": "정선군",
+        "totalAddress": "강원도 정선군",
+        "X": 89,
+        "Y": 123,
+        "mid-termForecastCode": "11D10502"
+    },
+    {
+        "AdministrativeDistrictCode": 4278000000,
+        "step1": "강원도",
+        "step2": "철원군",
+        "totalAddress": "강원도 철원군",
+        "X": 65,
+        "Y": 139,
+        "mid-termForecastCode": "11D10101"
+    },
+    {
+        "AdministrativeDistrictCode": 4279000000,
+        "step1": "강원도",
+        "step2": "화천군",
+        "totalAddress": "강원도 화천군",
+        "X": 72,
+        "Y": 139,
+        "mid-termForecastCode": "11D10102"
+    },
+    {
+        "AdministrativeDistrictCode": 4280000000,
+        "step1": "강원도",
+        "step2": "양구군",
+        "totalAddress": "강원도 양구군",
+        "X": 77,
+        "Y": 139,
+        "mid-termForecastCode": "11D10202"
+    },
+    {
+        "AdministrativeDistrictCode": 4281000000,
+        "step1": "강원도",
+        "step2": "인제군",
+        "totalAddress": "강원도 인제군",
+        "X": 80,
+        "Y": 138,
+        "mid-termForecastCode": "11D10201"
+    },
+    {
+        "AdministrativeDistrictCode": 4282000000,
+        "step1": "강원도",
+        "step2": "고성군",
+        "totalAddress": "강원도 고성군",
+        "X": 85,
+        "Y": 145,
+        "mid-termForecastCode": "11D20402"
+    },
+    {
+        "AdministrativeDistrictCode": 4283000000,
+        "step1": "강원도",
+        "step2": "양양군",
+        "totalAddress": "강원도 양양군",
+        "X": 88,
+        "Y": 138,
+        "mid-termForecastCode": "11D20403"
+    },
+    {
+        "AdministrativeDistrictCode": 4311100000,
+        "step1": "충청북도",
+        "step2": "청주시 상당구",
+        "totalAddress": "충청북도 청주시 상당구",
+        "X": 69,
+        "Y": 106,
+        "mid-termForecastCode": "11C10301"
+    },
+    {
+        "AdministrativeDistrictCode": 4311200000,
+        "step1": "충청북도",
+        "step2": "청주시 서원구",
+        "totalAddress": "충청북도 청주시 서원구",
+        "X": 69,
+        "Y": 107,
+        "mid-termForecastCode": "11C10301"
+    },
+    {
+        "AdministrativeDistrictCode": 4311300000,
+        "step1": "충청북도",
+        "step2": "청주시 흥덕구",
+        "totalAddress": "충청북도 청주시 흥덕구",
+        "X": 67,
+        "Y": 106,
+        "mid-termForecastCode": "11C10301"
+    },
+    {
+        "AdministrativeDistrictCode": 4311400000,
+        "step1": "충청북도",
+        "step2": "청주시 청원구",
+        "totalAddress": "충청북도 청주시 청원구",
+        "X": 69,
+        "Y": 107,
+        "mid-termForecastCode": "11C10301"
+    },
+    {
+        "AdministrativeDistrictCode": 4313000000,
+        "step1": "충청북도",
+        "step2": "충주시",
+        "totalAddress": "충청북도 충주시",
+        "X": 76,
+        "Y": 114,
+        "mid-termForecastCode": "11C10101"
+    },
+    {
+        "AdministrativeDistrictCode": 4315000000,
+        "step1": "충청북도",
+        "step2": "제천시",
+        "totalAddress": "충청북도 제천시",
+        "X": 81,
+        "Y": 118,
+        "mid-termForecastCode": "11C10201"
+    },
+    {
+        "AdministrativeDistrictCode": 4372000000,
+        "step1": "충청북도",
+        "step2": "보은군",
+        "totalAddress": "충청북도 보은군",
+        "X": 73,
+        "Y": 103,
+        "mid-termForecastCode": "11C10302"
+    },
+    {
+        "AdministrativeDistrictCode": 4373000000,
+        "step1": "충청북도",
+        "step2": "옥천군",
+        "totalAddress": "충청북도 옥천군",
+        "X": 71,
+        "Y": 99,
+        "mid-termForecastCode": "11C10403"
+    },
+    {
+        "AdministrativeDistrictCode": 4374000000,
+        "step1": "충청북도",
+        "step2": "영동군",
+        "totalAddress": "충청북도 영동군",
+        "X": 74,
+        "Y": 97,
+        "mid-termForecastCode": "11C10402"
+    },
+    {
+        "AdministrativeDistrictCode": 4374500000,
+        "step1": "충청북도",
+        "step2": "증평군",
+        "totalAddress": "충청북도 증평군",
+        "X": 71,
+        "Y": 110,
+        "mid-termForecastCode": "11C10304"
+    },
+    {
+        "AdministrativeDistrictCode": 4375000000,
+        "step1": "충청북도",
+        "step2": "진천군",
+        "totalAddress": "충청북도 진천군",
+        "X": 68,
+        "Y": 111,
+        "mid-termForecastCode": "11C10102"
+    },
+    {
+        "AdministrativeDistrictCode": 4376000000,
+        "step1": "충청북도",
+        "step2": "괴산군",
+        "totalAddress": "충청북도 괴산군",
+        "X": 74,
+        "Y": 111,
+        "mid-termForecastCode": "11C10303"
+    },
+    {
+        "AdministrativeDistrictCode": 4377000000,
+        "step1": "충청북도",
+        "step2": "음성군",
+        "totalAddress": "충청북도 음성군",
+        "X": 72,
+        "Y": 113,
+        "mid-termForecastCode": "11C10103"
+    },
+    {
+        "AdministrativeDistrictCode": 4380000000,
+        "step1": "충청북도",
+        "step2": "단양군",
+        "totalAddress": "충청북도 단양군",
+        "X": 84,
+        "Y": 115,
+        "mid-termForecastCode": "11C10202"
+    },
+    {
+        "AdministrativeDistrictCode": 4413100000,
+        "step1": "충청남도",
+        "step2": "천안시 동남구",
+        "totalAddress": "충청남도 천안시 동남구",
+        "X": 63,
+        "Y": 110,
+        "mid-termForecastCode": "11C20301"
+    },
+    {
+        "AdministrativeDistrictCode": 4413300000,
+        "step1": "충청남도",
+        "step2": "천안시 서북구",
+        "totalAddress": "충청남도 천안시 서북구",
+        "X": 63,
+        "Y": 112,
+        "mid-termForecastCode": "11C20301"
+    },
+    {
+        "AdministrativeDistrictCode": 4415000000,
+        "step1": "충청남도",
+        "step2": "공주시",
+        "totalAddress": "충청남도 공주시",
+        "X": 63,
+        "Y": 102,
+        "mid-termForecastCode": "11C20402"
+    },
+    {
+        "AdministrativeDistrictCode": 4418000000,
+        "step1": "충청남도",
+        "step2": "보령시",
+        "totalAddress": "충청남도 보령시",
+        "X": 54,
+        "Y": 100,
+        "mid-termForecastCode": "11C20201"
+    },
+    {
+        "AdministrativeDistrictCode": 4420000000,
+        "step1": "충청남도",
+        "step2": "아산시",
+        "totalAddress": "충청남도 아산시",
+        "X": 60,
+        "Y": 110,
+        "mid-termForecastCode": "11C20302"
+    },
+    {
+        "AdministrativeDistrictCode": 4421000000,
+        "step1": "충청남도",
+        "step2": "서산시",
+        "totalAddress": "충청남도 서산시",
+        "X": 51,
+        "Y": 110,
+        "mid-termForecastCode": "11C20101"
+    },
+    {
+        "AdministrativeDistrictCode": 4423000000,
+        "step1": "충청남도",
+        "step2": "논산시",
+        "totalAddress": "충청남도 논산시",
+        "X": 62,
+        "Y": 97,
+        "mid-termForecastCode": "11C20602"
+    },
+    {
+        "AdministrativeDistrictCode": 4425000000,
+        "step1": "충청남도",
+        "step2": "계룡시",
+        "totalAddress": "충청남도 계룡시",
+        "X": 65,
+        "Y": 99,
+        "mid-termForecastCode": "11C20403"
+    },
+    {
+        "AdministrativeDistrictCode": 4427000000,
+        "step1": "충청남도",
+        "step2": "당진시",
+        "totalAddress": "충청남도 당진시",
+        "X": 54,
+        "Y": 112,
+        "mid-termForecastCode": "11C20103"
+    },
+    {
+        "AdministrativeDistrictCode": 4471000000,
+        "step1": "충청남도",
+        "step2": "금산군",
+        "totalAddress": "충청남도 금산군",
+        "X": 69,
+        "Y": 95,
+        "mid-termForecastCode": "11C20601"
+    },
+    {
+        "AdministrativeDistrictCode": 4476000000,
+        "step1": "충청남도",
+        "step2": "부여군",
+        "totalAddress": "충청남도 부여군",
+        "X": 59,
+        "Y": 99,
+        "mid-termForecastCode": "11C20501"
+    },
+    {
+        "AdministrativeDistrictCode": 4477000000,
+        "step1": "충청남도",
+        "step2": "서천군",
+        "totalAddress": "충청남도 서천군",
+        "X": 55,
+        "Y": 94,
+        "mid-termForecastCode": "11C20202"
+    },
+    {
+        "AdministrativeDistrictCode": 4479000000,
+        "step1": "충청남도",
+        "step2": "청양군",
+        "totalAddress": "충청남도 청양군",
+        "X": 57,
+        "Y": 103,
+        "mid-termForecastCode": "11C20502"
+    },
+    {
+        "AdministrativeDistrictCode": 4480000000,
+        "step1": "충청남도",
+        "step2": "홍성군",
+        "totalAddress": "충청남도 홍성군",
+        "X": 55,
+        "Y": 106,
+        "mid-termForecastCode": "11C20104"
+    },
+    {
+        "AdministrativeDistrictCode": 4481000000,
+        "step1": "충청남도",
+        "step2": "예산군",
+        "totalAddress": "충청남도 예산군",
+        "X": 58,
+        "Y": 107,
+        "mid-termForecastCode": "11C20303"
+    },
+    {
+        "AdministrativeDistrictCode": 4482500000,
+        "step1": "충청남도",
+        "step2": "태안군",
+        "totalAddress": "충청남도 태안군",
+        "X": 48,
+        "Y": 109,
+        "mid-termForecastCode": "11C20102"
+    },
+    {
+        "AdministrativeDistrictCode": 4511100000,
+        "step1": "전라북도",
+        "step2": "전주시 완산구",
+        "totalAddress": "전라북도 전주시 완산구",
+        "X": 63,
+        "Y": 89,
+        "mid-termForecastCode": "11F10201"
+    },
+    {
+        "AdministrativeDistrictCode": 4511300000,
+        "step1": "전라북도",
+        "step2": "전주시 덕진구",
+        "totalAddress": "전라북도 전주시 덕진구",
+        "X": 63,
+        "Y": 89,
+        "mid-termForecastCode": "11F10201"
+    },
+    {
+        "AdministrativeDistrictCode": 4513000000,
+        "step1": "전라북도",
+        "step2": "군산시",
+        "totalAddress": "전라북도 군산시",
+        "X": 56,
+        "Y": 92,
+        "mid-termForecastCode": "21F10501"
+    },
+    {
+        "AdministrativeDistrictCode": 4514000000,
+        "step1": "전라북도",
+        "step2": "익산시",
+        "totalAddress": "전라북도 익산시",
+        "X": 60,
+        "Y": 91,
+        "mid-termForecastCode": "11F10202"
+    },
+    {
+        "AdministrativeDistrictCode": 4518000000,
+        "step1": "전라북도",
+        "step2": "정읍시",
+        "totalAddress": "전라북도 정읍시",
+        "X": 58,
+        "Y": 83,
+        "mid-termForecastCode": "11F10203"
+    },
+    {
+        "AdministrativeDistrictCode": 4519000000,
+        "step1": "전라북도",
+        "step2": "남원시",
+        "totalAddress": "전라북도 남원시",
+        "X": 68,
+        "Y": 80,
+        "mid-termForecastCode": "11F10401"
+    },
+    {
+        "AdministrativeDistrictCode": 4521000000,
+        "step1": "전라북도",
+        "step2": "김제시",
+        "totalAddress": "전라북도 김제시",
+        "X": 59,
+        "Y": 88,
+        "mid-termForecastCode": "21F10502"
+    },
+    {
+        "AdministrativeDistrictCode": 4571000000,
+        "step1": "전라북도",
+        "step2": "완주군",
+        "totalAddress": "전라북도 완주군",
+        "X": 63,
+        "Y": 89,
+        "mid-termForecastCode": "11F10204"
+    },
+    {
+        "AdministrativeDistrictCode": 4572000000,
+        "step1": "전라북도",
+        "step2": "진안군",
+        "totalAddress": "전라북도 진안군",
+        "X": 68,
+        "Y": 88,
+        "mid-termForecastCode": "11F10303"
+    },
+    {
+        "AdministrativeDistrictCode": 4573000000,
+        "step1": "전라북도",
+        "step2": "무주군",
+        "totalAddress": "전라북도 무주군",
+        "X": 72,
+        "Y": 93,
+        "mid-termForecastCode": "11F10302"
+    },
+    {
+        "AdministrativeDistrictCode": 4574000000,
+        "step1": "전라북도",
+        "step2": "장수군",
+        "totalAddress": "전라북도 장수군",
+        "X": 70,
+        "Y": 85,
+        "mid-termForecastCode": "11F10301"
+    },
+    {
+        "AdministrativeDistrictCode": 4575000000,
+        "step1": "전라북도",
+        "step2": "임실군",
+        "totalAddress": "전라북도 임실군",
+        "X": 66,
+        "Y": 84,
+        "mid-termForecastCode": "11F10402"
+    },
+    {
+        "AdministrativeDistrictCode": 4577000000,
+        "step1": "전라북도",
+        "step2": "순창군",
+        "totalAddress": "전라북도 순창군",
+        "X": 63,
+        "Y": 79,
+        "mid-termForecastCode": "11F10403"
+    },
+    {
+        "AdministrativeDistrictCode": 4579000000,
+        "step1": "전라북도",
+        "step2": "고창군",
+        "totalAddress": "전라북도 고창군",
+        "X": 56,
+        "Y": 80,
+        "mid-termForecastCode": "21F10601"
+    },
+    {
+        "AdministrativeDistrictCode": 4580000000,
+        "step1": "전라북도",
+        "step2": "부안군",
+        "totalAddress": "전라북도 부안군",
+        "X": 56,
+        "Y": 87,
+        "mid-termForecastCode": "21F10602"
+    },
+    {
+        "AdministrativeDistrictCode": 4611000000,
+        "step1": "전라남도",
+        "step2": "목포시",
+        "totalAddress": "전라남도 목포시",
+        "X": 50,
+        "Y": 67,
+        "mid-termForecastCode": "21F20801"
+    },
+    {
+        "AdministrativeDistrictCode": 4613000000,
+        "step1": "전라남도",
+        "step2": "여수시",
+        "totalAddress": "전라남도 여수시",
+        "X": 73,
+        "Y": 66,
+        "mid-termForecastCode": "11F20401"
+    },
+    {
+        "AdministrativeDistrictCode": 4615000000,
+        "step1": "전라남도",
+        "step2": "순천시",
+        "totalAddress": "전라남도 순천시",
+        "X": 70,
+        "Y": 70,
+        "mid-termForecastCode": "11F20405"
+    },
+    {
+        "AdministrativeDistrictCode": 4617000000,
+        "step1": "전라남도",
+        "step2": "나주시",
+        "totalAddress": "전라남도 나주시",
+        "X": 56,
+        "Y": 71,
+        "mid-termForecastCode": "11F20503"
+    },
+    {
+        "AdministrativeDistrictCode": 4623000000,
+        "step1": "전라남도",
+        "step2": "광양시",
+        "totalAddress": "전라남도 광양시",
+        "X": 73,
+        "Y": 70,
+        "mid-termForecastCode": "11F20402"
+    },
+    {
+        "AdministrativeDistrictCode": 4671000000,
+        "step1": "전라남도",
+        "step2": "담양군",
+        "totalAddress": "전라남도 담양군",
+        "X": 61,
+        "Y": 78,
+        "mid-termForecastCode": "11F20504"
+    },
+    {
+        "AdministrativeDistrictCode": 4672000000,
+        "step1": "전라남도",
+        "step2": "곡성군",
+        "totalAddress": "전라남도 곡성군",
+        "X": 66,
+        "Y": 77,
+        "mid-termForecastCode": "11F20602"
+    },
+    {
+        "AdministrativeDistrictCode": 4673000000,
+        "step1": "전라남도",
+        "step2": "구례군",
+        "totalAddress": "전라남도 구례군",
+        "X": 69,
+        "Y": 75,
+        "mid-termForecastCode": "11F20601"
+    },
+    {
+        "AdministrativeDistrictCode": 4677000000,
+        "step1": "전라남도",
+        "step2": "고흥군",
+        "totalAddress": "전라남도 고흥군",
+        "X": 66,
+        "Y": 62,
+        "mid-termForecastCode": "11F20403"
+    },
+    {
+        "AdministrativeDistrictCode": 4678000000,
+        "step1": "전라남도",
+        "step2": "보성군",
+        "totalAddress": "전라남도 보성군",
+        "X": 62,
+        "Y": 66,
+        "mid-termForecastCode": "11F20404"
+    },
+    {
+        "AdministrativeDistrictCode": 4679000000,
+        "step1": "전라남도",
+        "step2": "화순군",
+        "totalAddress": "전라남도 화순군",
+        "X": 61,
+        "Y": 72,
+        "mid-termForecastCode": "11F20505"
+    },
+    {
+        "AdministrativeDistrictCode": 4680000000,
+        "step1": "전라남도",
+        "step2": "장흥군",
+        "totalAddress": "전라남도 장흥군",
+        "X": 59,
+        "Y": 64,
+        "mid-termForecastCode": "11F20304"
+    },
+    {
+        "AdministrativeDistrictCode": 4681000000,
+        "step1": "전라남도",
+        "step2": "강진군",
+        "totalAddress": "전라남도 강진군",
+        "X": 57,
+        "Y": 63,
+        "mid-termForecastCode": "11F20303"
+    },
+    {
+        "AdministrativeDistrictCode": 4682000000,
+        "step1": "전라남도",
+        "step2": "해남군",
+        "totalAddress": "전라남도 해남군",
+        "X": 54,
+        "Y": 61,
+        "mid-termForecastCode": "11F20302"
+    },
+    {
+        "AdministrativeDistrictCode": 4683000000,
+        "step1": "전라남도",
+        "step2": "영암군",
+        "totalAddress": "전라남도 영암군",
+        "X": 56,
+        "Y": 66,
+        "mid-termForecastCode": "21F20802"
+    },
+    {
+        "AdministrativeDistrictCode": 4684000000,
+        "step1": "전라남도",
+        "step2": "무안군",
+        "totalAddress": "전라남도 무안군",
+        "X": 52,
+        "Y": 71,
+        "mid-termForecastCode": "21F20804"
+    },
+    {
+        "AdministrativeDistrictCode": 4686000000,
+        "step1": "전라남도",
+        "step2": "함평군",
+        "totalAddress": "전라남도 함평군",
+        "X": 52,
+        "Y": 72,
+        "mid-termForecastCode": "21F20101"
+    },
+    {
+        "AdministrativeDistrictCode": 4687000000,
+        "step1": "전라남도",
+        "step2": "영광군",
+        "totalAddress": "전라남도 영광군",
+        "X": 52,
+        "Y": 77,
+        "mid-termForecastCode": "21F20102"
+    },
+    {
+        "AdministrativeDistrictCode": 4688000000,
+        "step1": "전라남도",
+        "step2": "장성군",
+        "totalAddress": "전라남도 장성군",
+        "X": 57,
+        "Y": 77,
+        "mid-termForecastCode": "11F20502"
+    },
+    {
+        "AdministrativeDistrictCode": 4689000000,
+        "step1": "전라남도",
+        "step2": "완도군",
+        "totalAddress": "전라남도 완도군",
+        "X": 57,
+        "Y": 56,
+        "mid-termForecastCode": "11F20301"
+    },
+    {
+        "AdministrativeDistrictCode": 4690000000,
+        "step1": "전라남도",
+        "step2": "진도군",
+        "totalAddress": "전라남도 진도군",
+        "X": 48,
+        "Y": 59,
+        "mid-termForecastCode": "21F20201"
+    },
+    {
+        "AdministrativeDistrictCode": 4691000000,
+        "step1": "전라남도",
+        "step2": "신안군",
+        "totalAddress": "전라남도 신안군",
+        "X": 50,
+        "Y": 66,
+        "mid-termForecastCode": "21F20803"
+    },
+    {
+        "AdministrativeDistrictCode": 4711100000,
+        "step1": "경상북도",
+        "step2": "포항시 남구",
+        "totalAddress": "경상북도 포항시 남구",
+        "X": 102,
+        "Y": 94,
+        "mid-termForecastCode": "11H10201"
+    },
+    {
+        "AdministrativeDistrictCode": 4711300000,
+        "step1": "경상북도",
+        "step2": "포항시 북구",
+        "totalAddress": "경상북도 포항시 북구",
+        "X": 102,
+        "Y": 95,
+        "mid-termForecastCode": "11H10201"
+    },
+    {
+        "AdministrativeDistrictCode": 4713000000,
+        "step1": "경상북도",
+        "step2": "경주시",
+        "totalAddress": "경상북도 경주시",
+        "X": 100,
+        "Y": 91,
+        "mid-termForecastCode": "11H10202"
+    },
+    {
+        "AdministrativeDistrictCode": 4715000000,
+        "step1": "경상북도",
+        "step2": "김천시",
+        "totalAddress": "경상북도 김천시",
+        "X": 80,
+        "Y": 96,
+        "mid-termForecastCode": "11H10601"
+    },
+    {
+        "AdministrativeDistrictCode": 4717000000,
+        "step1": "경상북도",
+        "step2": "안동시",
+        "totalAddress": "경상북도 안동시",
+        "X": 91,
+        "Y": 106,
+        "mid-termForecastCode": "11H10501"
+    },
+    {
+        "AdministrativeDistrictCode": 4719000000,
+        "step1": "경상북도",
+        "step2": "구미시",
+        "totalAddress": "경상북도 구미시",
+        "X": 84,
+        "Y": 96,
+        "mid-termForecastCode": "11H10602"
+    },
+    {
+        "AdministrativeDistrictCode": 4721000000,
+        "step1": "경상북도",
+        "step2": "영주시",
+        "totalAddress": "경상북도 영주시",
+        "X": 89,
+        "Y": 111,
+        "mid-termForecastCode": "11H10401"
+    },
+    {
+        "AdministrativeDistrictCode": 4723000000,
+        "step1": "경상북도",
+        "step2": "영천시",
+        "totalAddress": "경상북도 영천시",
+        "X": 95,
+        "Y": 93,
+        "mid-termForecastCode": "11H10702"
+    },
+    {
+        "AdministrativeDistrictCode": 4725000000,
+        "step1": "경상북도",
+        "step2": "상주시",
+        "totalAddress": "경상북도 상주시",
+        "X": 81,
+        "Y": 102,
+        "mid-termForecastCode": "11H10302"
+    },
+    {
+        "AdministrativeDistrictCode": 4728000000,
+        "step1": "경상북도",
+        "step2": "문경시",
+        "totalAddress": "경상북도 문경시",
+        "X": 81,
+        "Y": 106,
+        "mid-termForecastCode": "11H10301"
+    },
+    {
+        "AdministrativeDistrictCode": 4729000000,
+        "step1": "경상북도",
+        "step2": "경산시",
+        "totalAddress": "경상북도 경산시",
+        "X": 91,
+        "Y": 90,
+        "mid-termForecastCode": "11H10703"
+    },
+    {
+        "AdministrativeDistrictCode": 4772000000,
+        "step1": "경상북도",
+        "step2": "군위군",
+        "totalAddress": "경상북도 군위군",
+        "X": 88,
+        "Y": 99,
+        "mid-termForecastCode": "11H10603"
+    },
+    {
+        "AdministrativeDistrictCode": 4773000000,
+        "step1": "경상북도",
+        "step2": "의성군",
+        "totalAddress": "경상북도 의성군",
+        "X": 90,
+        "Y": 101,
+        "mid-termForecastCode": "11H10502"
+    },
+    {
+        "AdministrativeDistrictCode": 4775000000,
+        "step1": "경상북도",
+        "step2": "청송군",
+        "totalAddress": "경상북도 청송군",
+        "X": 96,
+        "Y": 103,
+        "mid-termForecastCode": "11H10503"
+    },
+    {
+        "AdministrativeDistrictCode": 4776000000,
+        "step1": "경상북도",
+        "step2": "영양군",
+        "totalAddress": "경상북도 영양군",
+        "X": 97,
+        "Y": 108,
+        "mid-termForecastCode": "11H10403"
+    },
+    {
+        "AdministrativeDistrictCode": 4777000000,
+        "step1": "경상북도",
+        "step2": "영덕군",
+        "totalAddress": "경상북도 영덕군",
+        "X": 102,
+        "Y": 103,
+        "mid-termForecastCode": "11H10102"
+    },
+    {
+        "AdministrativeDistrictCode": 4782000000,
+        "step1": "경상북도",
+        "step2": "청도군",
+        "totalAddress": "경상북도 청도군",
+        "X": 91,
+        "Y": 86,
+        "mid-termForecastCode": "11H10704"
+    },
+    {
+        "AdministrativeDistrictCode": 4783000000,
+        "step1": "경상북도",
+        "step2": "고령군",
+        "totalAddress": "경상북도 고령군",
+        "X": 83,
+        "Y": 87,
+        "mid-termForecastCode": "11H10604"
+    },
+    {
+        "AdministrativeDistrictCode": 4784000000,
+        "step1": "경상북도",
+        "step2": "성주군",
+        "totalAddress": "경상북도 성주군",
+        "X": 83,
+        "Y": 91,
+        "mid-termForecastCode": "11H10605"
+    },
+    {
+        "AdministrativeDistrictCode": 4785000000,
+        "step1": "경상북도",
+        "step2": "칠곡군",
+        "totalAddress": "경상북도 칠곡군",
+        "X": 85,
+        "Y": 93,
+        "mid-termForecastCode": "11H10705"
+    },
+    {
+        "AdministrativeDistrictCode": 4790000000,
+        "step1": "경상북도",
+        "step2": "예천군",
+        "totalAddress": "경상북도 예천군",
+        "X": 86,
+        "Y": 107,
+        "mid-termForecastCode": "11H10303"
+    },
+    {
+        "AdministrativeDistrictCode": 4792000000,
+        "step1": "경상북도",
+        "step2": "봉화군",
+        "totalAddress": "경상북도 봉화군",
+        "X": 90,
+        "Y": 113,
+        "mid-termForecastCode": "11H10402"
+    },
+    {
+        "AdministrativeDistrictCode": 4793000000,
+        "step1": "경상북도",
+        "step2": "울진군",
+        "totalAddress": "경상북도 울진군",
+        "X": 102,
+        "Y": 115,
+        "mid-termForecastCode": "11H10101"
+    },
+    {
+        "AdministrativeDistrictCode": 4794000000,
+        "step1": "경상북도",
+        "step2": "울릉군",
+        "totalAddress": "경상북도 울릉군",
+        "X": 127,
+        "Y": 127,
+        "mid-termForecastCode": "11E00101"
+    },
+    {
+        "AdministrativeDistrictCode": 4812100000,
+        "step1": "경상남도",
+        "step2": "창원시 의창구",
+        "totalAddress": "경상남도 창원시 의창구",
+        "X": 90,
+        "Y": 77,
+        "mid-termForecastCode": "11H20301"
+    },
+    {
+        "AdministrativeDistrictCode": 4812300000,
+        "step1": "경상남도",
+        "step2": "창원시 성산구",
+        "totalAddress": "경상남도 창원시 성산구",
+        "X": 91,
+        "Y": 76,
+        "mid-termForecastCode": "11H20301"
+    },
+    {
+        "AdministrativeDistrictCode": 4812500000,
+        "step1": "경상남도",
+        "step2": "창원시 마산합포구",
+        "totalAddress": "경상남도 창원시 마산합포구",
+        "X": 89,
+        "Y": 76,
+        "mid-termForecastCode": "11H20301"
+    },
+    {
+        "AdministrativeDistrictCode": 4812700000,
+        "step1": "경상남도",
+        "step2": "창원시 마산회원구",
+        "totalAddress": "경상남도 창원시 마산회원구",
+        "X": 89,
+        "Y": 76,
+        "mid-termForecastCode": "11H20301"
+    },
+    {
+        "AdministrativeDistrictCode": 4812900000,
+        "step1": "경상남도",
+        "step2": "창원시 진해구",
+        "totalAddress": "경상남도 창원시 진해구",
+        "X": 91,
+        "Y": 75,
+        "mid-termForecastCode": "11H20301"
+    },
+    {
+        "AdministrativeDistrictCode": 4817000000,
+        "step1": "경상남도",
+        "step2": "진주시",
+        "totalAddress": "경상남도 진주시",
+        "X": 81,
+        "Y": 75,
+        "mid-termForecastCode": "11H20701"
+    },
+    {
+        "AdministrativeDistrictCode": 4822000000,
+        "step1": "경상남도",
+        "step2": "통영시",
+        "totalAddress": "경상남도 통영시",
+        "X": 87,
+        "Y": 68,
+        "mid-termForecastCode": "11H20401"
+    },
+    {
+        "AdministrativeDistrictCode": 4824000000,
+        "step1": "경상남도",
+        "step2": "사천시",
+        "totalAddress": "경상남도 사천시",
+        "X": 80,
+        "Y": 71,
+        "mid-termForecastCode": "11H20402"
+    },
+    {
+        "AdministrativeDistrictCode": 4825000000,
+        "step1": "경상남도",
+        "step2": "김해시",
+        "totalAddress": "경상남도 김해시",
+        "X": 95,
+        "Y": 77,
+        "mid-termForecastCode": "11H20304"
+    },
+    {
+        "AdministrativeDistrictCode": 4827000000,
+        "step1": "경상남도",
+        "step2": "밀양시",
+        "totalAddress": "경상남도 밀양시",
+        "X": 92,
+        "Y": 83,
+        "mid-termForecastCode": "11H20601"
+    },
+    {
+        "AdministrativeDistrictCode": 4831000000,
+        "step1": "경상남도",
+        "step2": "거제시",
+        "totalAddress": "경상남도 거제시",
+        "X": 90,
+        "Y": 69,
+        "mid-termForecastCode": "11H20403"
+    },
+    {
+        "AdministrativeDistrictCode": 4833000000,
+        "step1": "경상남도",
+        "step2": "양산시",
+        "totalAddress": "경상남도 양산시",
+        "X": 97,
+        "Y": 79,
+        "mid-termForecastCode": "11H20102"
+    },
+    {
+        "AdministrativeDistrictCode": 4872000000,
+        "step1": "경상남도",
+        "step2": "의령군",
+        "totalAddress": "경상남도 의령군",
+        "X": 83,
+        "Y": 78,
+        "mid-termForecastCode": "11H20602"
+    },
+    {
+        "AdministrativeDistrictCode": 4873000000,
+        "step1": "경상남도",
+        "step2": "함안군",
+        "totalAddress": "경상남도 함안군",
+        "X": 86,
+        "Y": 77,
+        "mid-termForecastCode": "11H20603"
+    },
+    {
+        "AdministrativeDistrictCode": 4874000000,
+        "step1": "경상남도",
+        "step2": "창녕군",
+        "totalAddress": "경상남도 창녕군",
+        "X": 87,
+        "Y": 83,
+        "mid-termForecastCode": "11H20604"
+    },
+    {
+        "AdministrativeDistrictCode": 4882000000,
+        "step1": "경상남도",
+        "step2": "고성군",
+        "totalAddress": "경상남도 고성군",
+        "X": 85,
+        "Y": 71,
+        "mid-termForecastCode": "11D20402"
+    },
+    {
+        "AdministrativeDistrictCode": 4884000000,
+        "step1": "경상남도",
+        "step2": "남해군",
+        "totalAddress": "경상남도 남해군",
+        "X": 77,
+        "Y": 68,
+        "mid-termForecastCode": "11H20405"
+    },
+    {
+        "AdministrativeDistrictCode": 4885000000,
+        "step1": "경상남도",
+        "step2": "하동군",
+        "totalAddress": "경상남도 하동군",
+        "X": 74,
+        "Y": 73,
+        "mid-termForecastCode": "11H20704"
+    },
+    {
+        "AdministrativeDistrictCode": 4886000000,
+        "step1": "경상남도",
+        "step2": "산청군",
+        "totalAddress": "경상남도 산청군",
+        "X": 76,
+        "Y": 80,
+        "mid-termForecastCode": "11H20703"
+    },
+    {
+        "AdministrativeDistrictCode": 4887000000,
+        "step1": "경상남도",
+        "step2": "함양군",
+        "totalAddress": "경상남도 함양군",
+        "X": 74,
+        "Y": 82,
+        "mid-termForecastCode": "11H20501"
+    },
+    {
+        "AdministrativeDistrictCode": 4888000000,
+        "step1": "경상남도",
+        "step2": "거창군",
+        "totalAddress": "경상남도 거창군",
+        "X": 77,
+        "Y": 86,
+        "mid-termForecastCode": "11H20502"
+    },
+    {
+        "AdministrativeDistrictCode": 4889000000,
+        "step1": "경상남도",
+        "step2": "합천군",
+        "totalAddress": "경상남도 합천군",
+        "X": 81,
+        "Y": 84,
+        "mid-termForecastCode": "11H20503"
+    },
+    {
+        "AdministrativeDistrictCode": 5011000000,
+        "step1": "제주특별자치도",
+        "step2": "제주시",
+        "totalAddress": "제주특별자치도 제주시",
+        "X": 53,
+        "Y": 38,
+        "mid-termForecastCode": "11G00201"
+    },
+    {
+        "AdministrativeDistrictCode": 5013000000,
+        "step1": "제주특별자치도",
+        "step2": "서귀포시",
+        "totalAddress": "제주특별자치도 서귀포시",
+        "X": 52,
+        "Y": 33,
+        "mid-termForecastCode": "11G00401"
+    }
+]

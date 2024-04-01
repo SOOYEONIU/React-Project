@@ -1,25 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import AutoComplete from './components/WeatherApp/js/searchSection';
 
-function App() {
+
+const ShareAPI = () => { 
+  return 11111
+}
+
+
+const App = () => {
+  const tempArr = [1, 2, 3, 4, 5];
   return (
+    // 한 페이지
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <AutoComplete className="searchPart" data={tempArr} />
     </div>
   );
 }
-
-export default App;
+export { App as default, ShareAPI};

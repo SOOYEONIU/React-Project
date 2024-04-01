@@ -1,0 +1,228 @@
+.totalPage { 
+    width: 100%; height: 100%;
+    display: flex;
+}
+
+.leftZone { width: 80%; height: 100%; }
+.wholeBox {
+    width: 92%;
+    height: 15vh;
+    padding: 10vh 0vh 0vh 8vh;
+}
+
+.wholeBox > h1 { 
+    font-size: 3vh; 
+    margin: 4vh 0 0 0;
+}
+
+.inputBox {
+    width: 95%;
+    display: flex;
+}
+.printText {
+    width: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.inputAddress {
+    width: 100%;
+    height: 100%;
+    padding: 2%;
+    /* margin: 5%; */
+    border: none;
+    border-radius: 0.5vh;
+    padding-left: 5%;
+    box-shadow: 0 3px 6px rgb(0, 0, 0, 0.3);
+    font-size: 2vh;
+    padding-right: 5vh;
+}
+
+.inputAddress:hover {
+    cursor: pointer;
+}
+
+input::-webkit-input-placeholder {
+    background-image: url(https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-256.png);
+    background-size: contain;
+    background-position: 1px center;
+    background-repeat: no-repeat;
+    text-align: center;
+    text-indent: 0;
+}
+input:focus {outline: none;}
+
+button {
+    width: 6vh;
+    height: 6vh;
+}
+button:hover {
+    cursor: pointer;
+}
+.deleteBtn {
+    width: 4vh;
+    height: 4vh;
+    /* margin-left: -13%; */
+    border-radius: 50%;
+    border: none;
+    text-align: center;
+    line-height: 4vh;
+    position: absolute;
+    left: 100%;
+    margin-left: -5vh;
+    background: transparent;
+}
+
+.addLocBtn {
+    margin-left: 2vh;
+    border-radius: 0.5vh;
+    background: transparent;
+    border: 1px solid #134E84;
+    color: #134E84;
+}
+.addLocBtn:hover {
+    background-color: #134E84;
+    color: white;
+}
+.addLocBtn:active {
+    background-color: #134d84cb;
+    border: 1px solid #134d84cb;
+    color: white;
+}
+
+.dropDownBox {
+    max-height: 30vh;
+    width: 25vw;
+    display: block;
+    margin-top: 2vh;
+    padding: 2vh 3vw;
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-top: none;
+    border-radius: 2vh;
+    box-shadow: 0 10px 10px rgb(0, 0, 0, 0.3);
+    list-style-type: none;
+    z-index: 3;
+    overflow: auto;
+    position: absolute;
+    -ms-overflow-style: none;
+        /* 인터넷 익스플로러 */
+        scrollbar-width: none;
+        /* 파이어폭스 */
+}
+    
+    .dropDownBox::-webkit-scrollbar {
+        display: none;
+        /* 크롬, 사파리, 오페라, 엣지 */
+    }
+
+.viewDropBox {
+    display: flex;
+    margin: 1vh 0;
+}
+.viewDropBox:hover {
+    background-color: rgb(172, 243, 255);
+}
+.dropDownItem {
+    padding: 0 6%;
+    background-color: lightgray;
+}
+.selected {
+    display: flex;
+    align-items: center;
+}
+.selected:hover {
+    cursor: pointer;
+}
+.searchIcon {
+    width: 3vh;
+    height: 3vh;
+    margin-right: 3%;
+    filter: opacity(0.5) drop-shadow(0 0 0 #ffffff);
+}
+
+.plusCity {
+    width: 50vw;
+    height: 20vh;
+    white-space: nowrap;
+    overflow-y: hidden;
+    overflow-x: auto;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2vh;
+}
+
+.cityName {
+    width: 50vw;
+    height: 13vh;
+    border: 1px solid #216BD9;
+    border-radius: 2vh;
+    padding: 2%;
+    font-size: 1.5vh;
+    color: #216BD9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2vh;
+}
+.cityName:hover {
+    background-color: #fff;
+    cursor: pointer;
+}
+.cityName:active {
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.weatherIcon {
+    height: 8vh;
+    margin-top: 0.2vh;
+    margin-bottom: 0.2vh;
+}
+.cityName > h4 {
+    margin: 0;
+    font-size: 2vh;
+}
+
+@media (max-width: 550px) {
+    .totalPage {
+        display: flex;
+        flex-direction: column;
+        background: linear-gradient(180deg, #0F3B7B, #74B7E8);
+        height: 200vh;
+    }
+
+    .leftZone { width: 100vw; order: 2;}
+    .todayPart { order: 1; }
+    .wholeBox { width: auto; }
+    .weeklyInfo { width: 90%; padding-left: 10%; }
+    .wholeBox { 
+        width: 90vw;
+        height: 8vh;
+        position: absolute;
+        top: 0vh;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        display: flex;
+        flex-direction: column; 
+        justify-content: center;
+        align-items: center;
+    }
+    .wholeBox > h1 { color: #9cd6fd;; }
+    .inputAddress { 
+        height: 5vh; 
+        background: rgba(225, 225, 225, 0.3);
+        color: white;
+    }
+    .inputBox { justify-content: center ;}
+    .dropDownBox { top: 20vh; width: 60vw; }
+    .closeBtn { color: white; }
+    input::-webkit-input-placeholder{
+        color: rgba(255, 255, 255, 0.586);
+    }
+}
