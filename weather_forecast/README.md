@@ -1,6 +1,6 @@
 [2023] 날씨예보 사이트 제작 - WEATHER FORECAST 🌤️
 ---
-<img src="http://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=
+![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
 React&logoColor=white">
 > 일상 속 필수 확인 정보인 날씨 예보! 👉🏻 [http://ec2-13-209-17-169.ap-northeast-2.compute.amazonaws.com:4000/]
 <img width="600" alt="image" src="https://github.com/SOOYEONIU/Weather-forecast/assets/149544640/12d4c454-cd67-49fd-b396-3448cec651f2">
