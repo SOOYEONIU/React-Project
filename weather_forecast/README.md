@@ -2,7 +2,7 @@
 ---
 ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
 ---
-> 일상 속 필수 확인 정보 날씨 예보! 👉🏻 [http://ec2-13-209-17-169.ap-northeast-2.compute.amazonaws.com:4000/]
+> 일상 속 필수 확인 정보 날씨 예보! 👉🏻 http://ec2-13-209-17-169.ap-northeast-2.compute.amazonaws.com:4000/
 <img width="600" alt="image" src="https://github.com/SOOYEONIU/Weather-forecast/assets/149544640/12d4c454-cd67-49fd-b396-3448cec651f2">
 
 
@@ -12,12 +12,6 @@
 
 우산을 챙길지, 옷을 뭘 입어야할지 고민이 되신다면 날씨 예보 사이트에서 확인하세요!
 
-🐤 Demo
----
-
-##지역 검색 기능
-- 시/군/구 단위로 지역 이름을 입력하여 입력한 지역의 날씨예보를 출력하는 기능
-
 
 ⭐️ Main Feature
 ---
@@ -26,12 +20,30 @@
 
 💻 Getting Started
 ---
+- 기상청 날씨 예보 중기/단기 API를 입력해야합니다.
 ## Installation
 ```
 npm install
+```
+```
+npm install axios
+```
+```
+npm install styled-components
 ```
 
 ## Production
 ```
 npm run build
 ```
+```
+npm start
+```
+
+🔧 Stack
+---
+- Language : JavaScript
+- Library & Framework : React.js
+- Deploy : AWS EC2
+
+
